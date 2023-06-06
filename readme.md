@@ -1,0 +1,1 @@
+The application prints the contents of the input to the console when the button is clicked.
